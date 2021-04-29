@@ -1,0 +1,337 @@
+    1  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+    2  sudo apt install ./google-chrome-stable_current_amd64.deb
+    3  cat /etc/apt/sources.list.d/google-chrome.list
+    4  sudo snap install telegram-desktop
+    5  sudo apt-get purge firefox
+    6  cd
+    7  ss
+    8  sudo apt update; sudo apt upgrade
+    9  sudo apt install vlc
+   10  sudo apt install preload
+   11  preload
+   12  sudo apt install preload
+   13  sudo apt install gnome-shell-extensions
+   14  sudo apt install synaptic
+   15  ere lash
+   16  sudo apt
+   17  sudo apt install screenrec
+   18  sudo wget -qO - https://screenrec.com/download/pub.asc | sudo apt-key add -
+   19  sudo add-apt-repository 'deb https://screenrec.com/download/ubuntu stable main'
+   20  sudo apt update
+   21  sudo apt install screenrec
+   22  sudo add-apt-repository ppa:noobslab/apps
+   23  sudo apt-get update
+   24  sudo apt-get install xdman
+   25  sudo add-apt-repository ppa:noobslab/apps
+   26  sudo apt install c
+   27  sudo apt install code_1.54.3-1615806378_amd64.deb
+   28  ls
+   29  sudo apt installcode_1.54.3-1615806378_amd64.deb
+   30  sudo apt install code_1.54.3-1615806378_amd64.deb
+   31  sudo dpkg -i code_1.54.3-1615806378_amd64.deb
+   32  /usr/bin/python3 /home/aymenua/Downloads/test.py
+   33  cat /proc/sys/vm/swappiness
+   34  swapon
+   35  sudo apt install ubuntu-restricted-extras ubuntu restricted-addons
+   36  sudo apt install ubuntu-restricted-extras ubuntu-restricted-addons
+   37  snap list
+   38  jsfhjds
+   39  sudo apt-get install git
+   40  gcc
+   41  ps aux
+   42  ls
+   43  cd /
+   44  ls
+   45  cd home
+   46  ls
+   47  cd aymenua
+   48  mkdir lab1
+   49  cd lab1
+   50  ls
+   51  cd /
+   52  ls
+   53  cd home aymeua
+   54  cd home
+   55  cd aymenua
+   56  ls
+   57  cd lab1
+   58  cd .
+   59  cd
+   60  cd home
+   61  cd /
+   62  cd home
+   63  cd aymeua
+   64  cd aymenua
+   65  cd lab1
+   66  pwd
+   67  rmdir lab1
+   68  cd ..
+   69  rmdir lab1
+   70  cd
+   71  cd /
+   72  cd home
+   73  cd aymenua
+   74  mkdir Aymen
+   75  cd aymen
+   76  cd Aymen
+   77  mkdir test1
+   78  mkdir test2
+   79  rmdir test2
+   80  ls /
+   81  ls |
+   82  .
+   83  ..
+   84  cd ..
+   85  mkdir lab1
+   86  cd lab1
+   87  mkdir sys prog
+   88  cd sys prog
+   89  ls
+   90  rmdir prog sys
+   91  ls
+   92  mkdir "sys prog"
+   93  ls
+   94  cd sys prog
+   95  cd "sys prog"
+   96  cd ..
+   97  ls
+   98  pwd
+   99  cd lab1
+  100  touch text.txt
+  101  rm -i text.txt
+  102  ls
+  103  touch aymen.mohammed
+  104  ls
+  105  ;s
+  106  ls
+  107  rm -i aymen.mohammed
+  108  pico hello.txt
+  109  pico hello.txt
+  110  clear
+  111  history
+  112  clear
+  113  cat hello.txt
+  114  less hello.txt
+  115  cd /
+  116  cd home
+  117  cd aymenua
+  118  cd lab1
+  119  ls
+  120  cd hello.txt hellocopy.txt
+  121  cp hello.txt hellocopy.txt
+  122  ls
+  123  what is hello
+  124  whatis hello
+  125  whatis hello.txt
+  126  whatis "hello.txt"
+  127  cp hello.txt "sys prog"
+  128  mkdir backup
+  129  ls
+  130  cd backup
+  131  cd ..
+  132  cp hello.txt /backup/backup.txt
+  133  cp hello.txt backup/backup.txt
+  134  ls backup
+  135  ls media
+  136  ls /media
+  137  cp hello.txt ..
+  138  ls
+  139  mv hello.txt backup
+  140  ls backup
+  141  mv hello.txt renamed.txt backup
+  142  mv hello.txt renamed backup
+  143  ls
+  144  mv hellocopy.txt renamed backup
+  145  mv hellocopy.txt renamed.txt backup
+  146  ls
+  147  ls backup
+  148  ls
+  149  mv text.txt goodbye.txt
+  150  ls
+  151  man ls
+  152  info ls
+  153  whatis ls
+  154  ls --help
+  155  touch hello.c
+  156  rm hello.c
+  157  pico hello.c
+  158  gcc -o hello hello.c
+  159  sudo apt install gcc
+  160  gcc -o hello hello.c
+  161  /hello
+  162  $ hello
+  163  ls
+  164  hello
+  165  $hello
+  166  ./hello
+  167  whatis more
+  168  whatis less
+  169  whatis grep
+  170  whatis wc
+  171  wc hello.c
+  172  whatis ps
+  173  ps
+  174  whatis id
+  175  id
+  176  sudo add-apt-repository ppa:linrunner/tlp
+  177  sudo apt update
+  178  sudo add-apt-repository ppa:linrunner/tlp
+  179  sudo apt update
+  180  sudo apt install tlp
+  181  sudo tlp start
+  182  tlp-stat -s
+  183  ls
+  184  cd .
+  185  cd /
+  186  ls
+  187  cd home
+  188  ls
+  189  cd aymenua
+  190  ls
+  191  mkdir 'System Programming Lab'
+  192  ls
+  193  cd System Programming Lab
+  194  cd "System Programming Lab"
+  195  ls
+  196  code .
+  197  ls
+  198  code .
+  199  gcc -o calc calculator.c
+  200  ls
+  201  clear
+  202  ls
+  203  gcc -o calc calculator.c
+  204  hangman.py
+  205  py
+  206  python
+  207  code .
+  208  cd /home/aymenua
+  209  ls
+  210  cd 'System Programming Lab'
+  211  ls
+  212  gcc -o calc calculator.c
+  213  ./calc
+  214  gcc -o calc calculator.c
+  215  ./calc
+  216  gcc -o calc calculator.c
+  217  ./calc
+  218  gcc -o calc calculator.c
+  219  ./calc
+  220  code .
+  221  ls
+  222  cd 'System Programming Lab'
+  223  ls
+  224  mkdir Lab2
+  225  ls
+  226  cd Lab2
+  227  pico hello.txt
+  228  cat hello.txt
+  229  less hello.txt
+  230  ls
+  231  cat hello.txt
+  232  head hello.txt
+  233  tail hello.txt
+  234  pico goodbye.txt
+  235  cat hello.txt goodbye.txt > combined.txt
+  236  pico combined.txt
+  237  wc hello.txt
+  238  wc -w hello
+  239  wc -w hello.txt
+  240  wc -l hello.txt
+  241  less hello.txt
+  242  clear
+  243  grep science hello.tt
+  244  grep science hello.txt
+  245  grep ?ine hello.txt
+  246* 
+  247* 
+  248* 
+  249  grep ? ine hello.txt
+  250  grep ?ine hello.txt
+  251  grep -i line hello.txt
+  252  grep -i 'line 1' hello.txt
+  253  grep -iv line hello.txt 
+  254  grep -ivc line hello.txt 
+  255  ls list*
+  256  ls hello*
+  257  ls h*
+  258  ls*o
+  259  ls *o
+  260  ls *t
+  261  grep -i l* hello.txt
+  262  grep -i li* hello.txt
+  263  grep -i *i hello.txt
+  264  grep -i *ine 1 hello.txt
+  265  grep -i '*ine 1' hello.txt
+  266  pico hello.txt
+  267  grep -i *ine1 hello.txt
+  268  ls ?ello
+  269  ls ?ello.txt
+  270  head -5 hello.txt
+  271  tail -15 hello.txt 
+  272  ls *.txt
+  273  pico text.txt
+  274  wc text.txt
+  275  grep -i in text.txt
+  276* grep  'time we saw' text.txt
+  277  grep *is text.txt
+  278  grep is* text.txt
+  279  grep ls *is text.txt
+  280  ls *is
+  281  ls *is text.txt
+  282  ls
+  283  ls *is
+  284  grep ls*is text.txt
+  285  grep ls *is text.txt
+  286  grep *is text.txt
+  287  grep ?is text.txt
+  288  grep is text.txt
+  289  grep *is text.txt
+  290  grep is* text.txt
+  291  grep ls is* text.txt
+  292  grep 'ls is*' text.txt
+  293  grep 'ls *is' text.txt
+  294  grep *is text.txt
+  295  grep *t  text.txt
+  296  grep *t text.txt
+  297  grep -ivc *t text.txt
+  298  whoami
+  299  who the hell am i
+  300  manegn
+  301  who are you
+  302  whoami
+  303  cat
+  304  cat text.txt
+  305  cat > fruits.txt
+  306  cat fruits.txt
+  307  cat text.txt > fruits.txt
+  308  cat fruits.txt
+  309  cat > fruits.txt
+  310  cat text.txt >> fruits.txt
+  311  cat fruits.txt
+  312  sort
+  313  sort < text.txt
+  314  sort < hello.txt > sorted.txt
+  315  cat sorted.txt
+  316  who
+  317  who > names.txt
+  318  cat names.txt
+  319  who | sort
+  320  who | sort > names.txt
+  321  cat names.txt
+  322  who | wc-l
+  323  who | wc-1
+  324  who | wc i1
+  325  who | wc -l
+  326  mkdir backup
+  327  cat text.txt > backup\backup.txt
+  328  cat backup\backup.txt
+  329  cat mytable.txt
+  330  cat >  mytable.txt
+  331  cat mytable.txt
+  332  sort mytable.txt > sorted_table.txt
+  333  cat sorted_table.txt
+  334  ls -l
+  335  ls -lg
+  336  cat history > history.txt
+  337  history > history.txt

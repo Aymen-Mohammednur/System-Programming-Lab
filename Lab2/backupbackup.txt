@@ -1,0 +1,4 @@
+This is the second laboratory for the course.
+Last time we saw some basic file and directory commands.
+Today we are adding more commands that are used for manipulating, displaying
+and searching files.
