@@ -1,0 +1,35 @@
+Practical 2
+2,
+   What do you understand from the generated file from the pre-processor?
+   	=>
+   What do you think is the function of the pre-processor?
+   	=> It removes comments
+   	=> It reads header files and macro expansions
+   What type of file is generated from the pre-processor?
+   	=> .i file Modified source program
+   	
+3,
+   What do you understand from the generated file from the compiler?
+   	=>
+   What do you think is the function of the compiler?
+   	=> Checks return and parameter types of functions
+   What type of file is generated from the compiler?
+   	=> .s file Assembly program
+   	
+   	
+4,
+   What do you understand from the generated file from the assembler?
+   	=>
+   What do you think is the function of the assembler?
+   	=> It translates assembly language into machine language
+   What type of file is generated from the assembler?
+   	=> .o file Relocatable object program (binary)
+   	
+5,
+   What do you understand from the generated file from the linker?
+   	=>
+   What do you think is the function of the linker?
+   	=> Fetches machine language definitions of printf() and scanf() from standard C library.
+   	=> Merges those definitions with hello.o to create executable code
+   What type of file is generated from the linker?
+   	=> Executable object program
