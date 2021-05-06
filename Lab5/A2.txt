@@ -1,0 +1,5 @@
+How many hex characters are needed to express a single byte?
+    ANS: each byte of memory requires only 2 hexadecimal characters.
+
+How many bytes are used to store each address?
+    ANS: 6 bytes
